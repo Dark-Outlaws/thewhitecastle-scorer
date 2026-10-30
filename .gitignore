@@ -1,0 +1,16 @@
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 依赖与日志
+node_modules/
+*.log
+
+# 临时抓取（第三方素材不入库）
+harvest-*/
